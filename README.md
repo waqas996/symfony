@@ -1,2 +1,2 @@
 # symfony
-Build a applicaton in symfony from start
+Build a applicaton in symfony from start for learning
